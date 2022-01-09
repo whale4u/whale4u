@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whale4u
+- 👋 Hi, I’m @jidda
 - 👀 I’m interested in Go、Java、Python
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Go
